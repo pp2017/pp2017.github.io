@@ -1,0 +1,31 @@
+
+body {
+font-family: "Palatino", Courier, monospace;
+  padding-left: 20px;
+  background: url("../img/landmannalaugar.png") no-repeat;
+}
+h1 {
+  padding: 3px 5px 0px 5px;
+  display: inline-block;
+  color: white;
+  background-color: #1e90fe;
+  font-size: 46px;
+}
+p {
+  color: white;
+  max-width: 550px;
+  font-size: 26px;
+  font-weight: 500;
+  background-color: #1e90fe;
+}
+p span {
+  background-color: #ff0;
+}
+a {
+  font-style: italic;
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+   color: yellow;
+}
