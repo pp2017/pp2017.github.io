@@ -1,0 +1,4 @@
+.onecolumn-eightwide{
+    @include shift(1 of 10);
+    @include span-columns(8 of 10);
+}

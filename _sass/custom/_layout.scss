@@ -8,5 +8,7 @@ body{
     background-size: 100vw auto, cover;
     background-attachment: fixed;
 };
+
+@import "grid-manipulations";
 @import "header";
 @import "page-content";

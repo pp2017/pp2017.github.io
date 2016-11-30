@@ -22,7 +22,7 @@
             };
 
         display: block;
-        background-color: rgba($color: #fff, $alpha: 0.7);
+        background-color: rgba($color: $base-background-color, $alpha: 0.7);
         text-align: center;
         line-height: 3em;
         font-size: 1.5em;

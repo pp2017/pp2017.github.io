@@ -8,4 +8,9 @@
         @include span-columns(10);
         min-height: 100vh;
     }
+
+    h1{
+        font-size: 2*$base-font-size;
+        font-variant: small-caps;
+    }
 }
