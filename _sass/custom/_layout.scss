@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(rgba(240, 240, 220, 0.0), 
+                                rgba(240, 240, 220, 0.0) 40%,
+                                rgba(240, 240, 220, 1.0)),
+                url(../assets/img/landmannalaugar.png),
+                $base-background-color;
+    background-repeat: no-repeat ,no-repeat;
+    background-size: 100vw auto, cover;
+    background-attachment: fixed;
+};
+@import "header";
+@import "page-content";
