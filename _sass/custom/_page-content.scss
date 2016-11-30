@@ -1,0 +1,16 @@
+.page-content{
+    @include outer-container;
+    background: rgba($color: #E7F1EC, $alpha: 0.7);
+    padding-top: 3em;
+
+    .wrapper{
+        @include shift(1);
+        @include span-columns(10);
+        min-height: 100vh;
+    }
+
+    h1{
+        font-size: 2*$base-font-size;
+        font-variant: small-caps;
+    }
+}

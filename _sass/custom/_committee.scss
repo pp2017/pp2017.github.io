@@ -1,0 +1,16 @@
+.committee{
+    .institution-list {
+        text-indent: 2ex;
+        margin-left: 2ex;
+        font-style: oblique;
+        list-style: disc;
+        font-size: smaller;
+    }
+
+    .committee-list-title{
+        margin-top: 2em;
+        font-variant: small-caps;
+        // font-size: 1.5*$base-font-size;
+        font-size: larger;
+    }
+}
