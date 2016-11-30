@@ -14,8 +14,12 @@
     }
 
     #title-block{
-            @include span-columns(6);
+            @include span-columns(8);
+            @include shift(2);
+        @include media($medium-screen){
             @include shift(3);
+            @include span-columns(6);            
+            }
         @include media($large-screen){
             @include shift(1);
             @include span-columns(4);
@@ -43,7 +47,7 @@
             @include span-columns(2);
             };
 
-        
+
         display: block;
         background-color: rgba($color: #fff, $alpha: 0.7);
         text-align: center;

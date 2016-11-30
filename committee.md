@@ -7,15 +7,19 @@ class: "onecolumn-eightwide committee"
 ##Local committee
 {: .committee-list-title}
 
-- Anders Claesson
-    - University of Iceland
-    {: .institution-list}
-- Henning Ulfarsson
-    - Reykjavik University
-    {: .institution-list}
 - Christian Bean
-    - Reykjavik University
+    - Reykjavik University, Iceland
     {: .institution-list}
+- Anders Claesson
+    - University of Iceland, Iceland
+    {: .institution-list}
+- Murray Tannock
+    - University of Otago, New Zealand
+    {: .institution-list}
+- Henning Ulfarsson (chair)
+    - Reykjavik University, Iceland
+    {: .institution-list}
+
 
 ##Steering committee
 {: .committee-list-title}
