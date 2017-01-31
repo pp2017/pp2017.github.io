@@ -4,9 +4,10 @@ layout: page
 ---
 
 Reykjavik Natura Icelandair Hotel: This hotel is walking distance from the
-conference venue. [Click here][IcelandairHotel] for conference discount, or
-e-mail corporate@icehotels.is and mention booking code RG088585 for PP2017.
-Rooms are reserved until February 20th.
+conference venue. [Click here][IcelandairHotel] for a conference discount to
+book an Attic Room for 30.500kr per night, or e-mail corporate@icehotels.is and
+mention booking code RG088585 for PP2017. Rooms are reserved until February
+20th.
 
 Hótel Óðinsvé: This hotel is located in downtown Reykjavík, with regular bus
 links to the university. For conference discount use booking code 51138. The
