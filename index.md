@@ -13,3 +13,5 @@ held **26-30 June** at [Reykjavik University][RU], Iceland.
 [RU]: http://www.ru.is/
 [PWinkler]: https://math.dartmouth.edu/~pw/
 [VJelinek]: http://iuuk.mff.cuni.cz/~jelinek/
+
+You can contact the conference organizers at pp2017conference@gmail.com.

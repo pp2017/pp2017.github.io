@@ -4,6 +4,8 @@ title: Committees
 class: "onecolumn-eightwide committee"
 ---
 
+To contact the conference organizers use pp2017conference@gmail.com.
+
 ##Local committee
 {: .committee-list-title}
 

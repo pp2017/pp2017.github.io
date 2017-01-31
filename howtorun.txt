@@ -1,0 +1,5 @@
+To run the website run in terminal at directory the following command:
+
+    bundle exec jekyll serve
+
+Then go to server address printed on terminal in safari code.
