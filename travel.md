@@ -18,9 +18,9 @@ undergraduates, graduate students, and early career faculty and researchers.
 
 Please email the form (or all of the information from the form) below to
 pp2017conference@gmail.com with the words “Travel Support Request” in the
-Subject line. Also, please have an advisor or mentor send a brief letter in
+subject line. Also, please have an advisor or mentor send a brief letter in
 support of your request to pp2017conference@gmail.com with your name in the
-Subject line.
+subject line.
 
 Applications for support are due by June 1st, 2017.
 
