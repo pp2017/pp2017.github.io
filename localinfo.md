@@ -158,11 +158,11 @@ For any further info please contact the conference organizers at
 pp2017conference@gmail.com and we will try to help you.
 
 [maptouniversity]: https://www.google.is/maps/place/Reykjavik+University/@64.1261982,-21.9331785,15z/data=!4m5!3m4!1s0x48d60b4e184b7e19:0xb87126c26f3d3420!8m2!3d64.1237635!4d-21.9269558
-[straeto]: www.straeto.is/en
-[heilsugaeslan]: www.heilsugaeslan.is
-[roads]: www.road.is
+[straeto]: http://www.straeto.is/en
+[heilsugaeslan]: http://www.heilsugaeslan.is
+[roads]: http://www.road.is
 [vedur]: http://en.vedur.is
-[utl]: www.utl.is/english
-[sjukra]: www.sjukra.is
-[safetravel]: www.safetravel.is
-[postur]: www.postur.is/en
+[utl]: http://www.utl.is/english
+[sjukra]: http://www.sjukra.is
+[safetravel]: http://www.safetravel.is
+[postur]: http://www.postur.is/en

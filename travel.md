@@ -26,7 +26,7 @@ Applications for support are due by June 1st, 2017.
 
 [Travel Support Request Form][form]
 
-[icelandair]: www.icelandair.com
-[wowair]: www.wowair.com
-[flybus]: www.flybus.is
+[icelandair]: http://www.icelandair.com
+[wowair]: http://www.wowair.com
+[flybus]: http://www.flybus.is
 [form]: /assets/pdf/PP2017TravelForm.pdf
