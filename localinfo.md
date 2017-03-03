@@ -3,7 +3,6 @@ title: Local information
 layout: page
 ---
 
-
 #Passport and Visa regulations
 
 Iceland is an associate member of the Schengen Agreement, which exempts
@@ -47,16 +46,16 @@ Iceland.
 Pharmacies are called “Apótek” and are open during normal business hours. Only a
 few are open at night. Medical Care can be obtained by visiting a Health Care
 Centre, called “Heilsugæslustöð” in Icelandic, during opening hours. For
-information, call +354-585-1300 or see [www.heilsugaeslan.is][heilsugaeslan] Medical help: There
-is a medical centre or hospital in all major cities and towns in Iceland. The
-emergency phone number (24 hours) in Iceland is 112.
+information, call +354-585-1300 or see [www.heilsugaeslan.is][heilsugaeslan]
+Medical help: There is a medical centre or hospital in all major cities and
+towns in Iceland. The emergency phone number (24 hours) in Iceland is 112.
 
 Health insurance: Citizens of EEA countries must bring their EHIC card (European
 Health Insurance Card), otherwise they will be charged in full. Non-EEA citizens
 are not covered by the EEA regulations and will be charged in full. For further
 information, contact the Icelandic Health Insurance. Tel.: +354-515-0100, Fax:
-+354-515-0051 Office hours: 10:00–15:00. [www.sjukra.is][sjukra]. Special vaccinations are
-not required to enter Iceland.
++354-515-0051 Office hours: 10:00–15:00. [www.sjukra.is][sjukra]. Special
+vaccinations are not required to enter Iceland.
 
 #Driving in Iceland
 
@@ -65,10 +64,10 @@ Ring Road Nr. 1 around Iceland is 1,332 km (827 mi). The general speed limit is
 asphalt, rural roads. Major highways are paved. Most mountain roads are closed
 until the end of June, or even longer, because of snow and muddy conditions,
 which make them impassable. For more information, be sure to visit
-[www.safetravel.is][safetravel]. Most roads in the interior of Iceland have a loose gravel
-surface, which is especially loose along the sides of the roads. The mountain
-roads are quite narrow and are not made for speeding. The same goes for some
-bridges that will only let one car cross at a time. Information on road
+[www.safetravel.is][safetravel]. Most roads in the interior of Iceland have a
+loose gravel surface, which is especially loose along the sides of the roads.
+The mountain roads are quite narrow and are not made for speeding. The same goes
+for some bridges that will only let one car cross at a time. Information on road
 conditions, tel.: +522-1000, daily 8:00–16:00. [www.road.is][roads].
 
 All off-road driving and driving outside of marked tracks is prohibited by law.
@@ -146,10 +145,14 @@ ratings from one to five stars may be awarded, as is generally known
 #Useful phone numbers
 
 Emergency number: 112
+
 Police: 444 1000
+
 Medical assistance: 1770
+
 Information: 1818
 
+# Further information
 
 For any further info please contact the conference organizers at
 pp2017conference@gmail.com and we will try to help you.
