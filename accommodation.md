@@ -22,8 +22,7 @@ and some reserved from June 25th -July 1st. Contact the conference organizers at
 pp2017conference@gmail.com for booking. The hotel webpage can be found
 [here][hotelfron]
 
-**We urge participants to book accommodation as soon as possible since hotels in
-Reykjavík are high in demand during summer.**
+**We urge participants to book accommodation as soon as possible since hotels in Reykjavík are high in demand during summer.**
 
 [IcelandairHotel]: https://gc.synxis.com/rez.aspx?Hotel=59630&Chain=15503&Dest=ICE&template=GCF&shell=GCF2&locale=en-US&arrive=6/25/2017&depart=6/26/2017&adult=2&child=0&group=PP2017_BB
 [hotelodinsve]: http://www.hotelodinsve.is

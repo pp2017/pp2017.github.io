@@ -21,5 +21,5 @@ downtown. Lunches are included 26, 27 and 29 June.
 
 
 
-[registration]: https://www.eventure-online.com/eventure/participant/personalData.form
+[registration]: http://www.eventure-online.com/eventure/externalLogin.do?congress=69_1724&&cat=1&username=create&password=create
 [nautholl]: http://nautholl.is/?lang=en
