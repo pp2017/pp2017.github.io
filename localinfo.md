@@ -162,7 +162,7 @@ pp2017conference@gmail.com and we will try to help you.
 [heilsugaeslan]: http://www.heilsugaeslan.is
 [roads]: http://www.road.is
 [vedur]: http://en.vedur.is
-[utl]: http://www.utl.is/english
+[utl]: http://www.utl.is/index.php/en/
 [sjukra]: http://www.sjukra.is
 [safetravel]: http://www.safetravel.is
 [postur]: http://www.postur.is/en
