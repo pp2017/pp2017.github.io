@@ -5,7 +5,8 @@ layout: page
 
 The abstract submission deadline is June 1, 2017. Please send your title and
 abstract submission as a .pdf file (with the source .tex file and accompanying
-figures, if any) to the organizing committee pp2017conference@gmail.com.
+figures, if any) to the organizing committee pp2017conference@gmail.com. Please
+include your name on all files.
 
 Extended abstracts of 2-5 pages are encouraged, but abstracts of any length up
 to 5 pages will be accepted. In your submission email, please state whether you
