@@ -18,8 +18,8 @@ the conference.
 Hótel Frón: This hotel is located in downtown Reykjavík, with regular bus links
 to the university. The price per night for a standard double room is 22.190 ISK,
 with breakfast included.  We have rooms reserved from June 25th until June 30th
-and some reserved from June 25th -July 1st. Contact the conference organizers at
-pp2017conference@gmail.com for booking. The hotel webpage can be found
+and some reserved from June 25th - July 1st. Contact the conference organizers at
+elisabet@cpreykjavik.is for booking. The hotel webpage can be found
 [here][hotelfron]
 
 **We urge participants to book accommodation as soon as possible since hotels in Reykjavík are in high demand during summer.**

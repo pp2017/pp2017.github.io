@@ -155,7 +155,7 @@ Information: 1818
 # Further information
 
 For any further info please contact the conference organizers at
-pp2017conference@gmail.com and we will try to help you.
+elisabet@cpreykjavik.is and we will try to help you.
 
 [maptouniversity]: https://www.google.is/maps/place/Reykjavik+University/@64.1261982,-21.9331785,15z/data=!4m5!3m4!1s0x48d60b4e184b7e19:0xb87126c26f3d3420!8m2!3d64.1237635!4d-21.9269558
 [straeto]: http://www.straeto.is/en
