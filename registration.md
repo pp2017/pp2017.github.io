@@ -7,9 +7,9 @@ Registration is now open!
 
 The registration and payment form can be found [here][registration].
 
-Early registration: before 31 May registration fee is 36.500 ISK.
+Early registration: before 3 June registration fee is 36.500 ISK.
 
-Late registration: after 31 May the registration fee will be 42.000 ISK.
+Late registration: after 3 June the registration fee will be 42.000 ISK.
 
 The conference banquet and excursion will be combined on Wednesday 28 June. We
 will visit the Reykjanes peninsula and the banquet will be at a restaurant
