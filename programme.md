@@ -189,19 +189,19 @@ Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov]
 [william_kuzsmaul]: /assets/pdf/abstracts/talks/william_kuzsmaul.pdf
 [yan_zhuang]: /assets/pdf/abstracts/talks/yan_zhuang.pdf
 
-[alexander_woo]: /assets/pdf/posters/talks/alexander_woo.pdf
-[brian_miceli]: /assets/pdf/posters/talks/brian_miceli.pdf
-[dan_qiu]: /assets/pdf/posters/talks/dan_qiu.pdf
-[david_merchant]: /assets/pdf/posters/talks/david_merchant.pdf
-[elizabeth_kelley]: /assets/pdf/posters/talks/elizabeth_kelley.pdf
-[ioannis_michos]: /assets/pdf/posters/talks/ioannis_michos.pdf
-[jason_smith]: /assets/pdf/posters/talks/jason_smith.pdf
-[kendra_killpatrick]: /assets/pdf/posters/talks/kendra_killpatrick.pdf
-[masaya_tomie]: /assets/pdf/posters/talks/masaya_tomie.pdf
-[mike_weiner]: /assets/pdf/posters/talks/mike_weiner.pdf
-[nadeau_emile]: /assets/pdf/posters/talks/nadeau_emile.pdf
-[rebecca_smith]: /assets/pdf/posters/talks/rebecca_smith.pdf
-[sergey_kirgizov]: /assets/pdf/posters/talks/sergey_kirgizov.pdf
+[alexander_woo]: /assets/pdf/abstracts/posters/alexander_woo.pdf
+[brian_miceli]: /assets/pdf/abstracts/posters/brian_miceli.pdf
+[dan_qiu]: /assets/pdf/abstracts/posters/dan_qiu.pdf
+[david_merchant]: /assets/pdf/abstracts/posters/david_merchant.pdf
+[elizabeth_kelley]: /assets/pdf/abstracts/posters/elizabeth_kelley.pdf
+[ioannis_michos]: /assets/pdf/abstracts/posters/ioannis_michos.pdf
+[jason_smith]: /assets/pdf/abstracts/posters/jason_smith.pdf
+[kendra_killpatrick]: /assets/pdf/abstracts/posters/kendra_killpatrick.pdf
+[masaya_tomie]: /assets/pdf/abstracts/posters/masaya_tomie.pdf
+[mike_weiner]: /assets/pdf/abstracts/posters/mike_weiner.pdf
+[nadeau_emile]: /assets/pdf/abstracts/posters/nadeau_emile.pdf
+[rebecca_smith]: /assets/pdf/abstracts/posters/rebecca_smith.pdf
+[sergey_kirgizov]: /assets/pdf/abstracts/posters/sergey_kirgizov.pdf
 
 <!-- [permpal]: /assets/pdf/posters/talks/permpal.txt
 
