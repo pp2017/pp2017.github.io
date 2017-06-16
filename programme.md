@@ -125,31 +125,31 @@ Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zo
 
 ##Posters
 
-Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
+Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
 
-Brian Miceli, Trinity University, USA - [abstract][brian_miceli]
+Kendra Killpatrick, Pepperdine University, USA - [abstract][kendra_killpatrick]
 
-Dun Qiu, University of UCSD, USA - [abstract][dan_qiu]
+Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov]
 
 David Marchant, The Open University, UK - [abstract][david_merchant]
 
-Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
+Brian Miceli, Trinity University, USA - [abstract][brian_miceli]
 
 Ioannis Michos, European University, Cyprus - [abstract][ioannis_michos]
 
+Émile Nadeau, UQAM, Canada - [abstract][nadeau_emile]
+
+Dun Qiu, University of UCSD, USA - [abstract][dan_qiu]
+
 Jason Smith, University of Strathclyde, UK - [abstract][jason_smith]
 
-Kendra Killpatrick, Pepperdine University, USA - [abstract][kendra_killpatrick]
+Rebecca Smith, SUNY, USA - [abstract][rebecca_smith]
 
 Masaya Tomie, Morioka University, Japan - [abstract][masaya_tomie]
 
 Mike Weiner, Penn State University, USA - [abstract][mike_weiner]
 
-Émile Nadeau, UQAM, Canada - [abstract][nadeau_emile]
-
-Rebecca Smith, SUNY, USA - [abstract][rebecca_smith]
-
-Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov]
+Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 
 [PWinkler]: https://math.dartmouth.edu/~pw/§
 [VJelinek]: http://iuuk.mff.cuni.cz/~jelinek/
