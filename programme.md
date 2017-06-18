@@ -152,7 +152,7 @@ Ioannis Michos, European University, Cyprus - [abstract][ioannis_michos]
 
 Émile Nadeau, UQAM, Canada - [abstract][nadeau_emile]
 
-Dun Qiu, University of UCSD, USA - [abstract][dan_qiu]
+Dun Qiu, UCSD, USA - [abstract][dan_qiu]
 
 Jason Smith, University of Strathclyde, UK - [abstract][jason_smith]
 
