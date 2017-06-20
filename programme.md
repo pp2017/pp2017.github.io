@@ -5,35 +5,124 @@ layout: page
 
 ##Schedule
 
-|              	| Monday   	| Tuesday    	| Wednesday 	| Thursday      	| Friday         	|
-|--------------	|----------	|------------	|-----------	|---------------	|----------------	|
-| 9.00-9.30    	| Riehl    	| Even-Zohar 	| Slivken   	| Sliačan       	| Thamrongpairoj 	|
-|--------------	|----------	|------------	|-----------	|---------------	|----------------	|
-| 9.30-10.00   	| Dilks    	| Stromquist 	| Pierrot   	| Troyka        	| Gunby          	|
-|--------------	|----------	|------------	|-----------	|---------------	|----------------	|
-| 10.00-10.30  	| Kučera   	| Skerman    	| Madras    	| Bevan         	| Rinaldi        	|
-|--------------	|----------	|------------	|-----------	|---------------	|----------------	|
-| Coffee Break 	|          	|            	|           	|               	|                	|
-|--------------	|----------	|------------	|-----------	|---------------	|----------------	|
-| 11.00-11.30  	| Burstein 	| Winkler    	| Moore     	| Jelínek       	| Davis          	|
-|--------------	|----------	|           	|-----------	|                	|----------------	|
-| 11.30-12.00  	| Miner    	|            	| Albert    	|               	| Zhuang         	|
-|--------------	|----------	|------------	|-----------	|---------------	|----------------	|
-| Lunch        	|          	|            	|           	|               	|                	|
-|--------------	|----------	|------------	|-----------	|---------------	|               	|
-| 14.00-14.30  	| Kuszmaul 	| Tenner     	| Excursion   | Opler         	|                	|
-|--------------	|----------	|------------	|             |---------------	|                	|
-| 14.30-15.00  	| Bean     	| Godbole    	|           	| Brignall      	|                	|
-|--------------	|----------	|------------	|             |---------------	|                	|
-| Coffee Break 	|          	|            	|           	|               	|                	|
-|--------------	|----------	|------------	|           	|---------------	|               	|
-| 15.30-16.00  	| Bagno    	| Galovich    |           	| Pudwell       	|                	|
-|--------------	|----------	|------------	|           	|---------------	|               	|
-| 16.00-16.30  	| Amini    	| Ferrari   	|           	| Price         	|                	|
-|--------------	|----------	|------------	|           	|---------------	|               	|
-| 16.30-17.00  	| Hamel  	  | Posters    	|           	| Open Problems 	|                	|
-|--------------	| --------- |           	|           	|                	|                	|
-
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+      <th>Friday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>9.00-9.30</th>
+      <td>Riehl</td>
+      <td>Even-Zohar</td>
+      <td>Slivken</td>
+      <td>Sliačan</td>
+      <td>Thamrongpairoj</td>
+    </tr>
+    <tr>
+      <th>9.30-10.00</th>
+      <td>Dilks</td>
+      <td>Stromquist</td>
+      <td>Pierrot</td>
+      <td>Troyka</td>
+      <td>Gunby</td>
+    </tr>
+    <tr>
+      <th>10.00-10.30</th>
+      <td>Kučera</td>
+      <td>Skerman</td>
+      <td>Madras</td>
+      <td>Bevan</td>
+      <td>Rinaldi</td>
+    </tr>
+    <tr>
+      <th>Coffee Break</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th>11.00-11.30</th>
+      <td>Burstein</td>
+      <td class="bottom-clear">Winkler</td>
+      <td>Moore</td>
+      <td class="bottom-clear">Jelínek</td>
+      <td>Davis</td>
+    </tr>
+    <tr>
+      <th>11.30-12.00</th>
+      <td>Miner</td>
+      <td class="top-clear">&nbsp;</td>
+      <td>Albert</td>
+      <td class="top-clear">&nbsp;</td>
+      <td>Zhuang</td>
+    </tr>
+    <tr>
+      <th>Lunch</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td class="bottom-clear">&nbsp;</td>
+    </tr>
+    <tr>
+      <th>14.00-14.30</th>
+      <td>Kuszmaul</td>
+      <td>Tenner</td>
+      <td class="bottom-clear">Excursion</td>
+      <td>Opler</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+    </tr>
+    <tr>
+      <th>14.30-15.00</th>
+      <td>Bean</td>
+      <td>Godbole</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+      <td>Brignall</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+    </tr>
+    <tr>
+      <th>Coffee Break</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+    </tr>
+    <tr>
+      <th>15.30-16.00</th>
+      <td>Bagno</td>
+      <td>Galovich</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+      <td>Pudwell</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+    </tr>
+    <tr>
+      <th>16.00-16.30</th>
+      <td>Amini</td>
+      <td>Ferrari</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+      <td>Price</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+    </tr>
+    <tr>
+      <th>16.30-17.00</th>
+      <td>Hamel</td>
+      <td class="bottom-clear">Posters</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+      <td class="bottom-clear">Open Problems</td>
+      <td class="bottom-clear top-clear">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 ##Invited speakers
 
@@ -47,9 +136,10 @@ I will talk about various aspects of the number sequence known as the Fishburn n
 
 Permutons, also known as doubly-stochastic measures, are
 limit structures for permutations (graphical grid classes are examples).
-For nice, large (factorial over exponential) subsets of S_n, we have a
+For nice, large (factorial over exponential) subsets of $$S_n$$, we have a
 variational principle that enables us to describe most permutations in
 the subset by finding the permuton that maximizes a certain entropy function.
+
 
 Ideal examples of such subsets are permutations with one or more
 given non-zero pattern densities, for which---sometimes---we can compute
@@ -57,7 +147,7 @@ the winning permuton.  Can we deduce properties about smaller subsets,
 such as the (merely exponential) set of permutations that avoid a pattern?
 Maybe with your help...
 
-Joint work with Rick Kenyon, Dan Kral', and Charles Radin.
+Joint work with Rick Kenyon, Dan Kráľ, and Charles Radin.
 
 
 ## Excursion and banquet
@@ -164,7 +254,7 @@ Mike Weiner, Penn State University, USA - [abstract][mike_weiner]
 
 Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 
-[PWinkler]: https://math.dartmouth.edu/~pw/§
+[PWinkler]: https://math.dartmouth.edu/~pw/
 [VJelinek]: http://iuuk.mff.cuni.cz/~jelinek/
 
 [adeline_pierrot]: /assets/pdf/abstracts/talks/adeline_pierrot.pdf
