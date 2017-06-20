@@ -1,0 +1,46 @@
+.schedule{
+  th{
+    border: 1px solid shade($base-border-color, 15%);
+    border-bottom: 1px solid shade($base-border-color, 100%);
+    border-top: none;
+    padding-left: 5px
+  }
+
+  td{
+    text-align: justify;
+    border: 1px solid shade($base-border-color, 15%);
+    padding-left: 5px;
+  }
+
+  tbody > tr > th:first-child{
+    border: 1px solid shade($base-border-color, 15%);
+    border-left: none;
+    border-right: 1px solid shade($base-border-color, 100%);
+    padding-left: 2px;
+    padding-right: 5px;
+  }
+
+  th:first-child{
+    border-left: none;
+    border-right: 1px solid shade($base-border-color, 100%);
+  }
+
+  th:last-child{
+    border-right: none;
+  }
+
+  td:first-child{
+    border-left: none;
+  }
+  td:last-child{
+    border-right: none;
+  }
+
+  .top-clear{
+    border-top: none;
+  }
+
+  .bottom-clear{
+    border-bottom: none;
+  }
+}
