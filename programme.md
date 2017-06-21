@@ -156,6 +156,9 @@ The conference banquet and excursion will be combined on Wednesday 28 June. We
 will visit the Reykjanes peninsula and the banquet will be at a restaurant
 there.
 
+We will leave from the university at 2pm. Dinner will be at 7pm at Salthúsið in
+Grindavík. We will return at 10pm.
+
 ##Contributing speakers
 
 Michael Albert, University of Otago, New Zealand - [abstract][michael_albert]
