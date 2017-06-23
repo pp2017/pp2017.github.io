@@ -233,7 +233,7 @@ Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zo
 
 Ragnar Pall Ardal, Reykjavik University, Iceland - [abstract][ragnar_ardal]
 
-Arnar Bjarni Arnarsson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson]
+Arnar Bjarni Arnarson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson]
 
 Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
 
@@ -241,7 +241,7 @@ Kendra Killpatrick, Pepperdine University, USA - [abstract][kendra_killpatrick]
 
 Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov]
 
-Tomoas Ken Magnusson, Reykjavik University, Iceland - [abstract][tomas_ken_magnusson]
+Tomas Ken Magnusson, Reykjavik University, Iceland - [abstract][tomas_ken_magnusson]
 
 David Marchant, The Open University, UK - [abstract][david_merchant]
 
