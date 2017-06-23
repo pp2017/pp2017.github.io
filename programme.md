@@ -233,7 +233,7 @@ Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zo
 
 Ragnar Pall Ardal, Reykjavik University, Iceland - [abstract][ragnar_ardal]
 
-Arnar Bjarni Arnarssson, Reykjavik University, Iceland - [abstract][arnar_bjarnason]
+Arnar Bjarni Arnarsson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson]
 
 Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
 
@@ -314,7 +314,7 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [nadeau_emile]: /assets/pdf/abstracts/posters/nadeau_emile.pdf
 [rebecca_smith]: /assets/pdf/abstracts/posters/rebecca_smith.pdf
 [sergey_kirgizov]: /assets/pdf/abstracts/posters/sergey_kirgizov.pdf
-[arnar_bjarni_arnarsson]: /assets/pdf/abstracts/posters/arnar_bjarnason.pdf
+[arnar_bjarni_arnarsson]: /assets/pdf/abstracts/posters/arnar_bjarni_arnarsson.pdf
 [ragnar_ardal]: /assets/pdf/abstracts/posters/ragnar_ardal.pdf
 [tomas_ken_magnusson]: /assets/pdf/abstracts/posters/tomas_ken_magnusson.pdf
 
