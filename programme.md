@@ -55,7 +55,7 @@ layout: page
       <td class="bottom-clear">Winkler</td>
       <td>Moore</td>
       <td class="bottom-clear">Jelínek</td>
-      <td>Bagno</td>
+      <td>Amini</td>
     </tr>
     <tr>
       <th>11.30-12.00</th>
@@ -99,7 +99,7 @@ layout: page
     </tr>
     <tr>
       <th>15.30-16.00</th>
-      <td>Davis</td>
+      <td>Bagno</td>
       <td>Galovich</td>
       <td class="bottom-clear top-clear">&nbsp;</td>
       <td>Pudwell</td>
@@ -107,7 +107,7 @@ layout: page
     </tr>
     <tr>
       <th>16.00-16.30</th>
-      <td>Amini</td>
+      <td>Davis</td>
       <td>Ferrari</td>
       <td class="bottom-clear top-clear">&nbsp;</td>
       <td>Price</td>
