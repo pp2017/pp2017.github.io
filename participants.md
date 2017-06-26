@@ -15,7 +15,7 @@ Arnar Bjarni Arnarsson, Reykjavik University, Iceland
 
 Andrei Asinowski, Vienna University of Technology / Institute, Austria
 
-Eli Bagno, JerUnited States of Americalem college of thecnology, Israel
+Eli Bagno, Jerusalem college of thecnology, Israel
 
 Christian Bean, Reykjavik University, Iceland
 

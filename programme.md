@@ -165,7 +165,7 @@ Michael Albert, University of Otago, New Zealand - [abstract][michael_albert]
 
 Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini]
 
-Eli Bagno, Jerusalem College of Technology, Isreal - [abstract][eli_bagno]
+Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno]
 
 Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean]
 
