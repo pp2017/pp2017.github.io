@@ -173,11 +173,11 @@ David Bevan, University of Strathclyde, UK - [abstract][david_bevan]
 
 Robert Brignall, The Open University, UK - [abstract][robert_brignall]
 
-Alexander Burstein, Howard University, USA - [abstract][alexander_burstein]
+Alexander Burstein, Howard University, USA - [abstract][alexander_burstein], [slides][alexander_burstein_slides]
 
 Robert Davis, Michigan State University, USA - [abstract][robert_davis]
 
-Kevin Dilks, North Dakota State University, USA - [abstract][kevin_dilks]
+Kevin Dilks, North Dakota State University, USA - [abstract][kevin_dilks], [slides][kevin_dilks_slides]
 
 Luca Ferrari, University of Firenze, Italy - [abstract][luca_ferrari]
 
@@ -189,13 +189,13 @@ Benjamin Gunby, Harvard University, USA - [abstract][benjamin_gunby]
 
 Sylvie Hamel, Université de Montréal, Canada - [abstract][sylvie_hamel]
 
-Stanislav Kucera, Charles University, Czech Republic - [abstract][stanislav_kucera]
+Stanislav Kucera, Charles University, Czech Republic - [abstract][stanislav_kucera], [slides][stanislav_kucera_slides]
 
 William Kuzsmaul, Stanford Univesity, USA - [abstract][william_kuzsmaul]
 
 Neal Madras, York University, Canada - [abstract][neal_madras]
 
-Sam Miner, Pomona College, USA - [abstract][sam_miner]
+Sam Miner, Pomona College, USA - [abstract][sam_miner], [slides][sam_miner_slides]
 
 Katherine Moore, Dartmouth College, USA - [abstract][katherine_moore]
 
@@ -207,7 +207,7 @@ Andrew Elvey Price, University of Melbourne, Australia - [abstract][andrew_elvey
 
 Lara Pudwell, Valparaiso University, USA - [abstract][lara_pudwell]
 
-Manda Riehl, University of Wisconsin-Eau Claire, USA - [abstract][manda_riehl]
+Manda Riehl, University of Wisconsin-Eau Claire, USA - [abstract][manda_riehl], [slides][manda_riehl_slides]
 
 Simone Rinaldi, University of Siena, Italy - [abstract][simone_rinaldi]
 
@@ -317,6 +317,14 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [arnar_bjarni_arnarsson]: /assets/pdf/abstracts/posters/arnar_bjarni_arnarsson.pdf
 [ragnar_ardal]: /assets/pdf/abstracts/posters/ragnar_ardal.pdf
 [tomas_ken_magnusson]: /assets/pdf/abstracts/posters/tomas_ken_magnusson.pdf
+
+[alexander_burstein_slides]: /assets/pdf/slides/alexander_burstein.pdf
+[kevin_dilks_slides]: /assets/pdf/slides/kevin_dilks.pdf
+[manda_riehl_slides]: /assets/pdf/slides/manda_riehl.pdf
+[sam_miner_slides]: /assets/pdf/slides/sam_miner.pdf
+[stanislav_kucera_slides]: /assets/pdf/slides/stanislav_kucera.pdf
+
+
 
 <!-- [permpal]: /assets/pdf/posters/talks/permpal.txt
 
