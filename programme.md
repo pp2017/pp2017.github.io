@@ -149,6 +149,8 @@ Maybe with your help...
 
 Joint work with Rick Kenyon, Dan Kráľ, and Charles Radin.
 
+[slides][peter_winkler_slides]
+
 
 ## Excursion and banquet
 
@@ -165,7 +167,7 @@ Michael Albert, University of Otago, New Zealand - [abstract][michael_albert]
 
 Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini]
 
-Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno]
+Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno], [slides][eli_bagno_slides]
 
 Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean]
 
@@ -175,23 +177,23 @@ Robert Brignall, The Open University, UK - [abstract][robert_brignall]
 
 Alexander Burstein, Howard University, USA - [abstract][alexander_burstein], [slides][alexander_burstein_slides]
 
-Robert Davis, Michigan State University, USA - [abstract][robert_davis]
+Robert Davis, Michigan State University, USA - [abstract][robert_davis], [slides][robert_davis_slides]
 
 Kevin Dilks, North Dakota State University, USA - [abstract][kevin_dilks], [slides][kevin_dilks_slides]
 
-Luca Ferrari, University of Firenze, Italy - [abstract][luca_ferrari]
+Luca Ferrari, University of Firenze, Italy - [abstract][luca_ferrari], [slides][luca_ferrari_slides]
 
-Jennifer Galovich, St. John's University and the College of St. Benedict, USA - [abstract][jennifer_galovich]
+Jennifer Galovich, St. John's University and the College of St. Benedict, USA - [abstract][jennifer_galovich], [slides][jennifer_galovich_slides]
 
-Anant Godbole, East Tennessee State University, USA - [abstract][anant_godbole]
+Anant Godbole, East Tennessee State University, USA - [abstract][anant_godbole], [slides][anant_godbole_slides]
 
 Benjamin Gunby, Harvard University, USA - [abstract][benjamin_gunby]
 
-Sylvie Hamel, Université de Montréal, Canada - [abstract][sylvie_hamel]
+Sylvie Hamel, Université de Montréal, Canada - [abstract][sylvie_hamel], [slides][sylvie_hamel_slides]
 
 Stanislav Kucera, Charles University, Czech Republic - [abstract][stanislav_kucera], [slides][stanislav_kucera_slides]
 
-William Kuzsmaul, Stanford Univesity, USA - [abstract][william_kuzsmaul]
+William Kuzsmaul, Stanford Univesity, USA - [abstract][william_kuzsmaul], [slides][william_kuszmaul_slides]
 
 Neal Madras, York University, Canada - [abstract][neal_madras]
 
@@ -211,15 +213,15 @@ Manda Riehl, University of Wisconsin-Eau Claire, USA - [abstract][manda_riehl], 
 
 Simone Rinaldi, University of Siena, Italy - [abstract][simone_rinaldi]
 
-Fiona Skerman, University of Bristol, UK - [abstract][fiona_skerman]
+Fiona Skerman, University of Bristol, UK - [abstract][fiona_skerman], [slides][fiona_skerman_slides]
 
-Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan]
+Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan], [slides][jakub_sliacan_slides]
 
 Erik Slivken, University of California Davis, USA - [abstract][erik_slivken]
 
 Walter Stromquist, Bryn Mawr College, USA - [abstract][walter_stromquist]
 
-Bridget Tenner, DePaul University, USA - [abstract][bridget_tenner]
+Bridget Tenner, DePaul University, USA - [abstract][bridget_tenner], [slides][bridget_tenner_slides]
 
 Sittipong Thamrongpairoj, UCSD, USA - [abstract][sittipong_thamrongpairoj]
 
@@ -323,8 +325,17 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [manda_riehl_slides]: /assets/pdf/slides/manda_riehl.pdf
 [sam_miner_slides]: /assets/pdf/slides/sam_miner.pdf
 [stanislav_kucera_slides]: /assets/pdf/slides/stanislav_kucera.pdf
-
-
+[eli_bagno_slides]: /assets/pdf/slides/eli_bagno.pdf
+[robert_davis_slides]: /assets/pdf/slides/robert_davis.pdf
+[sylvie_hamel_slides]: /assets/pdf/slides/sylvie_hamel.pdf
+[william_kuszmaul_slides]: /assets/pdf/slides/william_kuszmaul.pdf
+[peter_winkler_slides]: /assets/pdf/slides/peter_winkler.pdf
+[jakub_sliacan_slides]: /assets/pdf/slides/jakub_sliacan.pdf
+[fiona_skerman_slides]: /assets/pdf/slides/fiona_skerman.pdf
+[anant_godbole_slides]: /assets/pdf/slides/anant_godbole.pdf
+[jennifer_galovich_slides]: /assets/pdf/slides/jennifer_galovich.pdf
+[bridget_tenner_slides]: /assets/pdf/slides/bridget_tenner.pdf
+[luca_ferrari_slides]: /assets/pdf/slides/luca_ferrari.pdf
 
 <!-- [permpal]: /assets/pdf/posters/talks/permpal.txt
 
