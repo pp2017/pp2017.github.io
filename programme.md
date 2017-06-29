@@ -193,7 +193,7 @@ Sylvie Hamel, Université de Montréal, Canada - [abstract][sylvie_hamel], [slid
 
 Stanislav Kucera, Charles University, Czech Republic - [abstract][stanislav_kucera], [slides][stanislav_kucera_slides]
 
-William Kuzsmaul, Stanford Univesity, USA - [abstract][william_kuzsmaul], [slides][william_kuszmaul_slides]
+William Kuszmaul, Stanford Univesity, USA - [abstract][william_kuszmaul], [slides][william_kuszmaul_slides]
 
 Neal Madras, York University, Canada - [abstract][neal_madras]
 
@@ -300,7 +300,7 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [stanislav_kucera]: /assets/pdf/abstracts/talks/stanislav_kucera.pdf
 [sylvie_hamel]: /assets/pdf/abstracts/talks/sylvie_hamel.pdf
 [walter_stromquist]: /assets/pdf/abstracts/talks/walter_stromquist.pdf
-[william_kuzsmaul]: /assets/pdf/abstracts/talks/william_kuzsmaul.pdf
+[william_kuszmaul]: /assets/pdf/abstracts/talks/william_kuszmaul.pdf
 [yan_zhuang]: /assets/pdf/abstracts/talks/yan_zhuang.pdf
 
 [alexander_woo]: /assets/pdf/abstracts/posters/alexander_woo.pdf
