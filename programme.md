@@ -163,7 +163,7 @@ Grindavík. We will return at 10pm.
 
 ##Contributing speakers
 
-Michael Albert, University of Otago, New Zealand - [abstract][michael_albert]
+Michael Albert, University of Otago, New Zealand - [abstract][michael_albert], [slides][michael_albert_slides]
 
 Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini]
 
@@ -336,6 +336,8 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [jennifer_galovich_slides]: /assets/pdf/slides/jennifer_galovich.pdf
 [bridget_tenner_slides]: /assets/pdf/slides/bridget_tenner.pdf
 [luca_ferrari_slides]: /assets/pdf/slides/luca_ferrari.pdf
+[michael_albert_slides]: /assets/pdf/slides/michael_albert.pdf
+
 
 <!-- [permpal]: /assets/pdf/posters/talks/permpal.txt
 
