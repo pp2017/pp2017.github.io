@@ -19,27 +19,27 @@ layout: page
   <tbody>
     <tr>
       <th>9.00-9.30</th>
-      <td>Riehl</td>
-      <td>Even-Zohar</td>
-      <td>Slivken</td>
-      <td>Sliačan</td>
-      <td>Thamrongpairoj</td>
+      <td><a href="/assets/pdf/abstracts/talks/manda_riehl.pdf">Riehl</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/chaim_even_zohar.pdf">Even-Zohar</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/erik_slivken.pdf">Slivken</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/jakub_sliacan.pdf">Sliačan</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/sittipong_thamrongpairoj.pdf">Thamrongpairoj</a></td>
     </tr>
     <tr>
       <th>9.30-10.00</th>
-      <td>Dilks</td>
-      <td>Stromquist</td>
-      <td>Pierrot</td>
-      <td>Troyka</td>
-      <td>Gunby</td>
+      <td><a href="/assets/pdf/abstracts/talks/kevin_dilks.pdf">Dilks</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/walter_stromquist.pdf">Stromquist</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/adeline_pierrot.pdf">Pierrot</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/justin_troyka.pdf">Troyka</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/benjamin_gunby.pdf">Gunby</a></td>
     </tr>
     <tr>
       <th>10.00-10.30</th>
-      <td>Kučera</td>
-      <td>Skerman</td>
-      <td>Madras</td>
-      <td>Bevan</td>
-      <td>Rinaldi</td>
+      <td><a href="/assets/pdf/abstracts/talks/stanislav_kucera.pdf">Kučera</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/fiona_skerman.pdf">Skerman</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/neal_madras.pdf">Madras</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/david_bevan.pdf">Bevan</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/simone_rinaldi.pdf">Rinaldi</a></td>
     </tr>
     <tr>
       <th>Coffee Break</th>
@@ -51,19 +51,19 @@ layout: page
     </tr>
     <tr>
       <th>11.00-11.30</th>
-      <td>Burstein</td>
+      <td><a href="/assets/pdf/abstracts/talks/alexander_burstein.pdf">Burstein</a></td>
       <td class="bottom-clear">Winkler</td>
-      <td>Moore</td>
+      <td><a href="/assets/pdf/abstracts/talks/katherine_moore.pdf">Moore</a></td>
       <td class="bottom-clear">Jelínek</td>
-      <td>Amini</td>
+      <td><a href="/assets/pdf/abstracts/talks/nima_amini.pdf">Amini</a></td>
     </tr>
     <tr>
       <th>11.30-12.00</th>
-      <td>Miner</td>
+      <td><a href="/assets/pdf/abstracts/talks/sam_miner.pdf">Miner</a></td>
       <td class="top-clear">&nbsp;</td>
-      <td>Albert</td>
+      <td><a href="/assets/pdf/abstracts/talks/michael_albert.pdf">Albert</a></td>
       <td class="top-clear">&nbsp;</td>
-      <td>Zhuang</td>
+      <td><a href="/assets/pdf/abstracts/talks/yan_zhuang.pdf">Zhuang</a></td>
     </tr>
     <tr>
       <th>Lunch</th>
@@ -75,18 +75,18 @@ layout: page
     </tr>
     <tr>
       <th>14.00-14.30</th>
-      <td>Kuszmaul</td>
-      <td>Tenner</td>
+      <td><a href="/assets/pdf/abstracts/talks/william_kuszmaul.pdf">Kuszmaul</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/bridget_tenner.pdf">Tenner</a></td>
       <td class="bottom-clear">Excursion</td>
-      <td>Opler</td>
+      <td><a href="/assets/pdf/abstracts/talks/michal_opler.pdf">Opler</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
     </tr>
     <tr>
       <th>14.30-15.00</th>
-      <td>Bean</td>
-      <td>Godbole</td>
+      <td><a href="/assets/pdf/abstracts/talks/christian_bean.pdf">Bean</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/anant_godbole.pdf">Godbole</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
-      <td>Brignall</td>
+      <td><a href="/assets/pdf/abstracts/talks/robert_brignall.pdf">Brignall</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
     </tr>
     <tr>
@@ -99,23 +99,23 @@ layout: page
     </tr>
     <tr>
       <th>15.30-16.00</th>
-      <td>Bagno</td>
-      <td>Galovich</td>
+      <td><a href="/assets/pdf/abstracts/talks/eli_bagno.pdf">Bagno</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/jennifer_galovich.pdf">Galovich</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
-      <td>Pudwell</td>
+      <td><a href="/assets/pdf/abstracts/talks/lara_pudwell.pdf">Pudwell</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
     </tr>
     <tr>
       <th>16.00-16.30</th>
-      <td>Davis</td>
-      <td>Ferrari</td>
+      <td><a href="/assets/pdf/abstracts/talks/robert_davis.pdf">Davis</a></td>
+      <td><a href="/assets/pdf/abstracts/talks/luca_ferrari.pdf">Ferrari</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
-      <td>Price</td>
+      <td><a href="/assets/pdf/abstracts/talks/andrew_elvey_price.pdf">Price</a></td>
       <td class="bottom-clear top-clear">&nbsp;</td>
     </tr>
     <tr>
       <th>16.30-17.00</th>
-      <td>Hamel</td>
+      <td><a href="/assets/pdf/abstracts/talks/sylvie_hamel.pdf">Hamel</a></td>
       <td class="bottom-clear">Posters</td>
       <td class="bottom-clear top-clear">&nbsp;</td>
       <td class="bottom-clear">Open Problems</td>
@@ -215,11 +215,11 @@ Simone Rinaldi, University of Siena, Italy - [abstract][simone_rinaldi]
 
 Fiona Skerman, University of Bristol, UK - [abstract][fiona_skerman], [slides][fiona_skerman_slides]
 
-Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan], [slides][jakub_sliacan_slides]
+Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan]
 
 Erik Slivken, University of California Davis, USA - [abstract][erik_slivken]
 
-Walter Stromquist, Bryn Mawr College, USA - [abstract][walter_stromquist]
+Walter Stromquist, Bryn Mawr College, USA - [abstract][walter_stromquist], [slides][walter_stromquist_slides]
 
 Bridget Tenner, DePaul University, USA - [abstract][bridget_tenner], [slides][bridget_tenner_slides]
 
@@ -330,7 +330,7 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [sylvie_hamel_slides]: /assets/pdf/slides/sylvie_hamel.pdf
 [william_kuszmaul_slides]: /assets/pdf/slides/william_kuszmaul.pdf
 [peter_winkler_slides]: /assets/pdf/slides/peter_winkler.pdf
-[jakub_sliacan_slides]: /assets/pdf/slides/jakub_sliacan.pdf
+[walter_stromquist_slides]: /assets/pdf/slides/walter_stromquist.pdf
 [fiona_skerman_slides]: /assets/pdf/slides/fiona_skerman.pdf
 [anant_godbole_slides]: /assets/pdf/slides/anant_godbole.pdf
 [jennifer_galovich_slides]: /assets/pdf/slides/jennifer_galovich.pdf
