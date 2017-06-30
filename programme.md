@@ -131,6 +131,8 @@ layout: page
 
 I will talk about various aspects of the number sequence known as the Fishburn numbers (A022493 in the OEIS). I will mention some of the many combinatorial structures enumerated by this number sequence, which include interval orders, ascent sequences, Stoimenow matchings, and certain classes of pattern-avoiding permutations. I will also talk about the generating function of these numbers and present some surprising identities involving this function. Next, I will point out several congruence identities involving the Fishburn numbers, which have been proven by number-theoretic arguments and for which no combinatorial explanation is currently known. Finally, I will talk about certain close combinatorial analogies between the Fishburn numbers and the Catalan numbers.
 
+[slides][vit_jelinek_slides]
+
 - [Peter Winkler][PWinkler], Dartmouth College
 --  Title: Permutons and Pattern Densities
 
@@ -171,7 +173,7 @@ Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno], [sli
 
 Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean]
 
-David Bevan, University of Strathclyde, UK - [abstract][david_bevan]
+David Bevan, University of Strathclyde, UK - [abstract][david_bevan], [slides][david_bevan_slides]
 
 Robert Brignall, The Open University, UK - [abstract][robert_brignall]
 
@@ -195,15 +197,15 @@ Stanislav Kucera, Charles University, Czech Republic - [abstract][stanislav_kuce
 
 William Kuszmaul, Stanford Univesity, USA - [abstract][william_kuszmaul], [slides][william_kuszmaul_slides]
 
-Neal Madras, York University, Canada - [abstract][neal_madras]
+Neal Madras, York University, Canada - [abstract][neal_madras], [slides][neal_madras_slides]
 
 Sam Miner, Pomona College, USA - [abstract][sam_miner], [slides][sam_miner_slides]
 
-Katherine Moore, Dartmouth College, USA - [abstract][katherine_moore]
+Katherine Moore, Dartmouth College, USA - [abstract][katherine_moore], [slides][katherine_moore_slides]
 
 Michal Opler, Charles University, Czech Republic - [abstract][michal_opler]
 
-Adeline Pierrot, Université Paris-Sud, France - [abstract][adeline_pierrot]
+Adeline Pierrot, Université Paris-Sud, France - [abstract][adeline_pierrot], [slides][adeline_pierrot_slides]
 
 Andrew Elvey Price, University of Melbourne, Australia - [abstract][andrew_elvey_price]
 
@@ -215,7 +217,7 @@ Simone Rinaldi, University of Siena, Italy - [abstract][simone_rinaldi]
 
 Fiona Skerman, University of Bristol, UK - [abstract][fiona_skerman], [slides][fiona_skerman_slides]
 
-Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan]
+Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan], [slides][jakub_sliacan_slides]
 
 Erik Slivken, University of California Davis, USA - [abstract][erik_slivken]
 
@@ -225,11 +227,11 @@ Bridget Tenner, DePaul University, USA - [abstract][bridget_tenner], [slides][br
 
 Sittipong Thamrongpairoj, UCSD, USA - [abstract][sittipong_thamrongpairoj]
 
-Justin Troyka, Dartmouth College, USA - [abstract][justin_troyka]
+Justin Troyka, Dartmouth College, USA - [abstract][justin_troyka], [slides][justin_troyka_slides]
 
 Yan Zhuang, Brandeis University, USA - [abstract][yan_zhuang]
 
-Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zohar]
+Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zohar], [slides][chaim_even_zohar_slides]
 
 ##Posters
 
@@ -337,6 +339,16 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [bridget_tenner_slides]: /assets/pdf/slides/bridget_tenner.pdf
 [luca_ferrari_slides]: /assets/pdf/slides/luca_ferrari.pdf
 [michael_albert_slides]: /assets/pdf/slides/michael_albert.pdf
+
+[vit_jelinek_slides]: /assets/pdf/slides/.pdf
+[chaim_even_zohar_slides]: /assets/pdf/slides/chaim_even_zohar.pdf
+[adeline_pierrot_slides]: /assets/pdf/slides/adeline_pierrot.pdf
+[david_bevan_slides]: /assets/pdf/slides/david_bevan.pdf
+[neal_madras_slides]: /assets/pdf/slides/neal_madras.pdf
+[katherine_moore_slides]: /assets/pdf/slides/katherine_moore.pdf
+[jakub_sliacan_slides]: /assets/pdf/slides/jakub_sliacan.pdf
+[justin_troyka_slides]: /assets/pdf/slides/justin_troyka.pdf
+
 
 
 <!-- [permpal]: /assets/pdf/posters/talks/permpal.txt
