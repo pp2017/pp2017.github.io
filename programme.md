@@ -267,6 +267,12 @@ Mike Weiner, Penn State University, USA - [abstract][mike_weiner]
 
 Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 
+##Open Problems
+
+Here are some of the problems asked at the conference and the respective questioner.
+
+William Kuszmaul - [problem][william_kuszmaul_problem]
+
 [PWinkler]: https://math.dartmouth.edu/~pw/
 [VJelinek]: http://iuuk.mff.cuni.cz/~jelinek/
 
@@ -347,7 +353,6 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [katherine_moore_slides]: /assets/pdf/slides/katherine_moore.pdf
 [jakub_sliacan_slides]: /assets/pdf/slides/jakub_sliacan.pdf
 [justin_troyka_slides]: /assets/pdf/slides/justin_troyka.pdf
-
 [sittipong_thamrongpairoj_slides]: /assets/pdf/slides/sittipong_thamrongpairoj.pdf
 [simone_rinaldi_slides]: /assets/pdf/slides/simone_rinaldi.pdf
 [lara_pudwell_slides]: /assets/pdf/slides/lara_pudwell.pdf
@@ -360,6 +365,7 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [erik_slivken_slides]: /assets/pdf/slides/erik_slivken.pdf
 [christian_bean_slides]: /assets/pdf/slides/christian_bean.pdf
 
+[william_kuszmaul_problem]: /assets/pdf/problems/william_kuszmaul.pdf
 
 
 
