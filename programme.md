@@ -167,15 +167,15 @@ Grindavík. We will return at 10pm.
 
 Michael Albert, University of Otago, New Zealand - [abstract][michael_albert], [slides][michael_albert_slides]
 
-Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini]
+Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini], [slides][nima_amini_slides]
 
 Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno], [slides][eli_bagno_slides]
 
-Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean]
+Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean], [slides][christian_bean_slides]
 
 David Bevan, University of Strathclyde, UK - [abstract][david_bevan], [slides][david_bevan_slides]
 
-Robert Brignall, The Open University, UK - [abstract][robert_brignall]
+Robert Brignall, The Open University, UK - [abstract][robert_brignall], [slides][robert_brignall_slides]
 
 Alexander Burstein, Howard University, USA - [abstract][alexander_burstein], [slides][alexander_burstein_slides]
 
@@ -189,7 +189,7 @@ Jennifer Galovich, St. John's University and the College of St. Benedict, USA - 
 
 Anant Godbole, East Tennessee State University, USA - [abstract][anant_godbole], [slides][anant_godbole_slides]
 
-Benjamin Gunby, Harvard University, USA - [abstract][benjamin_gunby]
+Benjamin Gunby, Harvard University, USA - [abstract][benjamin_gunby], [slides][benjamin_gunby_slides]
 
 Sylvie Hamel, Université de Montréal, Canada - [abstract][sylvie_hamel], [slides][sylvie_hamel_slides]
 
@@ -203,33 +203,33 @@ Sam Miner, Pomona College, USA - [abstract][sam_miner], [slides][sam_miner_slide
 
 Katherine Moore, Dartmouth College, USA - [abstract][katherine_moore], [slides][katherine_moore_slides]
 
-Michal Opler, Charles University, Czech Republic - [abstract][michal_opler]
+Michal Opler, Charles University, Czech Republic - [abstract][michal_opler], [slides][michal_opler_slides]
 
 Adeline Pierrot, Université Paris-Sud, France - [abstract][adeline_pierrot], [slides][adeline_pierrot_slides]
 
-Andrew Elvey Price, University of Melbourne, Australia - [abstract][andrew_elvey_price]
+Andrew Elvey Price, University of Melbourne, Australia - [abstract][andrew_elvey_price], [slides][andrew_elvey_price_slides]
 
-Lara Pudwell, Valparaiso University, USA - [abstract][lara_pudwell]
+Lara Pudwell, Valparaiso University, USA - [abstract][lara_pudwell], [slides][lara_pudwell_slides]
 
 Manda Riehl, University of Wisconsin-Eau Claire, USA - [abstract][manda_riehl], [slides][manda_riehl_slides]
 
-Simone Rinaldi, University of Siena, Italy - [abstract][simone_rinaldi]
+Simone Rinaldi, University of Siena, Italy - [abstract][simone_rinaldi], [slides][simone_rinaldi_slides]
 
 Fiona Skerman, University of Bristol, UK - [abstract][fiona_skerman], [slides][fiona_skerman_slides]
 
 Jakub Sliacan, The Open University, UK - [abstract][jakub_sliacan], [slides][jakub_sliacan_slides]
 
-Erik Slivken, University of California Davis, USA - [abstract][erik_slivken]
+Erik Slivken, University of California Davis, USA - [abstract][erik_slivken], [slides][erik_slivken_slides]
 
 Walter Stromquist, Bryn Mawr College, USA - [abstract][walter_stromquist], [slides][walter_stromquist_slides]
 
 Bridget Tenner, DePaul University, USA - [abstract][bridget_tenner], [slides][bridget_tenner_slides]
 
-Sittipong Thamrongpairoj, UCSD, USA - [abstract][sittipong_thamrongpairoj]
+Sittipong Thamrongpairoj, UCSD, USA - [abstract][sittipong_thamrongpairoj], [slides][sittipong_thamrongpairoj_slides]
 
 Justin Troyka, Dartmouth College, USA - [abstract][justin_troyka], [slides][justin_troyka_slides]
 
-Yan Zhuang, Brandeis University, USA - [abstract][yan_zhuang]
+Yan Zhuang, Brandeis University, USA - [abstract][yan_zhuang], [slides][yan_zhuang_slides]
 
 Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zohar], [slides][chaim_even_zohar_slides]
 
@@ -339,7 +339,6 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [bridget_tenner_slides]: /assets/pdf/slides/bridget_tenner.pdf
 [luca_ferrari_slides]: /assets/pdf/slides/luca_ferrari.pdf
 [michael_albert_slides]: /assets/pdf/slides/michael_albert.pdf
-
 [vit_jelinek_slides]: /assets/pdf/slides/.pdf
 [chaim_even_zohar_slides]: /assets/pdf/slides/chaim_even_zohar.pdf
 [adeline_pierrot_slides]: /assets/pdf/slides/adeline_pierrot.pdf
@@ -348,6 +347,20 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 [katherine_moore_slides]: /assets/pdf/slides/katherine_moore.pdf
 [jakub_sliacan_slides]: /assets/pdf/slides/jakub_sliacan.pdf
 [justin_troyka_slides]: /assets/pdf/slides/justin_troyka.pdf
+
+[sittipong_thamrongpairoj_slides]: /assets/pdf/slides/sittipong_thamrongpairoj.pdf
+[simone_rinaldi_slides]: /assets/pdf/slides/simone_rinaldi.pdf
+[lara_pudwell_slides]: /assets/pdf/slides/lara_pudwell.pdf
+[benjamin_gunby_slides]: /assets/pdf/slides/benjamin_gunby.pdf
+[michal_opler_slides]: /assets/pdf/slides/michal_opler.pdf
+[andrew_elvey_price_slides]: /assets/pdf/slides/andrew_elvey_price.pdf
+[nima_amini_slides]: /assets/pdf/slides/nima_amini.pdf
+[yan_zhuang_slides]: /assets/pdf/slides/yan_zhuang.pdf
+[robert_brignall_slides]: /assets/pdf/slides/robert_brignall.pdf
+[erik_slivken_slides]: /assets/pdf/slides/erik_slivken.pdf
+[christian_bean_slides]: /assets/pdf/slides/christian_bean.pdf
+
+
 
 
 
