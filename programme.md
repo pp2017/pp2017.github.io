@@ -171,7 +171,7 @@ Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini], 
 
 Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno], [slides][eli_bagno_slides]
 
-Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean], [slides][christian_bean_slides]
+Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean], [slides][christian_bean_slides], [webpage][permpal]
 
 David Bevan, University of Strathclyde, UK - [abstract][david_bevan], [slides][david_bevan_slides]
 
@@ -237,11 +237,11 @@ Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zo
 
 Ragnar Pall Ardal, Reykjavik University, Iceland - [abstract][ragnar_ardal]
 
-Arnar Bjarni Arnarson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson]
+Arnar Bjarni Arnarson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson], [webpage][permpal]
 
 Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
 
-Kendra Killpatrick, Pepperdine University, USA - [abstract][kendra_killpatrick]
+Kendra Killpatrick, Pepperdine University, USA - [abstract][kendra_killpatrick], [poster][kendra_killpatrick_poster]
 
 Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov], [poster][sergey_kirgizov_poster]
 
@@ -376,7 +376,12 @@ Jennifer Galovich - [problem][jennifer_galovich_problem]
 [brian_miceli_poster]: /assets/pdf/poster/brian_miceli.pdf
 [masaya_tomie_poster]: /assets/pdf/poster/masaya_tomie.pdf
 [david_marchant_poster]: /assets/pdf/poster/david_marchant.pdf
+[kendra_killpatrick_poster]: /assets/pdf/poster/kendra_killpatrick.pdf
 [_poster]: /assets/pdf/poster/.pdf
+
+[permpal][permpal.ru.is]
+
+
 
 
 
