@@ -247,9 +247,9 @@ Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov],
 
 Tomas Ken Magnusson, Reykjavik University, Iceland - [abstract][tomas_ken_magnusson], [poster][tomas_magnusson_poster]
 
-David Marchant, The Open University, UK - [abstract][david_merchant]
+David Marchant, The Open University, UK - [abstract][david_merchant], [poster][david_marchant_poster]
 
-Brian Miceli, Trinity University, USA - [abstract][brian_miceli]
+Brian Miceli, Trinity University, USA - [abstract][brian_miceli], [poster][brian_miceli_poster]
 
 Ioannis Michos, European University, Cyprus - [abstract][ioannis_michos], [poster][ioannis_michos_poster]
 
@@ -261,7 +261,7 @@ Jason Smith, University of Strathclyde, UK - [abstract][jason_smith]
 
 Rebecca Smith, SUNY, USA - [abstract][rebecca_smith]
 
-Masaya Tomie, Morioka University, Japan - [abstract][masaya_tomie]
+Masaya Tomie, Morioka University, Japan - [abstract][masaya_tomie], [poster][masaya_tomie]
 
 Mike Weiner, Penn State University, USA - [abstract][mike_weiner]
 
@@ -373,7 +373,11 @@ Jennifer Galovich - [problem][jennifer_galovich_problem]
 [sergey_kirgizov_poster]: /assets/pdf/poster/sergey_kirgizov.pdf
 [ioannis_michos_poster]: /assets/pdf/poster/ioannis_michos.pdf
 [tomas_magnusson_poster]: /assets/pdf/poster/tomas_magnusson.pdf
+[brian_miceli_poster]: /assets/pdf/poster/brian_miceli.pdf
+[masaya_tomie_poster]: /assets/pdf/poster/masaya_tomie.pdf
+[david_marchant_poster]: /assets/pdf/poster/david_marchant.pdf
 [_poster]: /assets/pdf/poster/.pdf
+
 
 
 
