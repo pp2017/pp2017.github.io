@@ -243,15 +243,15 @@ Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
 
 Kendra Killpatrick, Pepperdine University, USA - [abstract][kendra_killpatrick]
 
-Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov]
+Sergey Kirgizov, Université de Bourgogne, France - [abstract][sergey_kirgizov], [poster][sergey_kirgizov_poster]
 
-Tomas Ken Magnusson, Reykjavik University, Iceland - [abstract][tomas_ken_magnusson]
+Tomas Ken Magnusson, Reykjavik University, Iceland - [abstract][tomas_ken_magnusson], [poster][tomas_magnusson_poster]
 
 David Marchant, The Open University, UK - [abstract][david_merchant]
 
 Brian Miceli, Trinity University, USA - [abstract][brian_miceli]
 
-Ioannis Michos, European University, Cyprus - [abstract][ioannis_michos]
+Ioannis Michos, European University, Cyprus - [abstract][ioannis_michos], [poster][ioannis_michos_poster]
 
 Émile Nadeau, UQAM, Canada - [abstract][nadeau_emile]
 
@@ -272,6 +272,8 @@ Alexander Woo, University of Idaho, USA - [abstract][alexander_woo]
 Here are some of the problems asked at the conference and the respective questioner.
 
 William Kuszmaul - [problem][william_kuszmaul_problem]
+
+Jennifer Galovich - [problem][jennifer_galovich_problem]
 
 [PWinkler]: https://math.dartmouth.edu/~pw/
 [VJelinek]: http://iuuk.mff.cuni.cz/~jelinek/
@@ -366,6 +368,13 @@ William Kuszmaul - [problem][william_kuszmaul_problem]
 [christian_bean_slides]: /assets/pdf/slides/christian_bean.pdf
 
 [william_kuszmaul_problem]: /assets/pdf/problems/william_kuszmaul.pdf
+[jennifer_galovich_problem]: /assets/pdf/problems/jennifer_galovich.pdf
+
+[sergey_kirgizov_poster]: /assets/pdf/poster/sergey_kirgizov.pdf
+[ioannis_michos_poster]: /assets/pdf/poster/ioannis_michos.pdf
+[tomas_magnusson_poster]: /assets/pdf/poster/tomas_magnusson.pdf
+[_poster]: /assets/pdf/poster/.pdf
+
 
 
 
