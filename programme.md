@@ -171,7 +171,7 @@ Nima Amini, KTH Royal Institute of Technology, Sweden - [abstract][nima_amini], 
 
 Eli Bagno, Jerusalem College of Technology, Israel - [abstract][eli_bagno], [slides][eli_bagno_slides]
 
-Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean], [slides][christian_bean_slides], [webpage][permpal]
+Christian Bean, Reykjavik University, Iceland - [abstract][christian_bean], [slides][christian_bean_slides], <a href="http://permpal.ru.is">PermPAL</a>
 
 David Bevan, University of Strathclyde, UK - [abstract][david_bevan], [slides][david_bevan_slides]
 
@@ -237,7 +237,7 @@ Chaim Even Zohar, University of California Davis, USA - [abstract][chaim_even_zo
 
 Ragnar Pall Ardal, Reykjavik University, Iceland - [abstract][ragnar_ardal]
 
-Arnar Bjarni Arnarson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson], [webpage][permpal]
+Arnar Bjarni Arnarson, Reykjavik University, Iceland - [abstract][arnar_bjarni_arnarsson], <a href="http://permpal.ru.is">PermPAL</a>
 
 Elizabeth Kelley, University of Minnesota, USA - [abstract][elizabeth_kelley]
 
@@ -378,9 +378,6 @@ Jennifer Galovich - [problem][jennifer_galovich_problem]
 [david_marchant_poster]: /assets/pdf/poster/david_marchant.pdf
 [kendra_killpatrick_poster]: /assets/pdf/poster/kendra_killpatrick.pdf
 [_poster]: /assets/pdf/poster/.pdf
-
-[permpal]: [permpal.ru.is]
-
 
 
 
