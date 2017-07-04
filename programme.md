@@ -379,7 +379,7 @@ Jennifer Galovich - [problem][jennifer_galovich_problem]
 [kendra_killpatrick_poster]: /assets/pdf/poster/kendra_killpatrick.pdf
 [_poster]: /assets/pdf/poster/.pdf
 
-[permpal][permpal.ru.is]
+[permpal]: [permpal.ru.is]
 
 
 
