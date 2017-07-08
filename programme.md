@@ -253,11 +253,11 @@ Brian Miceli, Trinity University, USA - [abstract][brian_miceli], [poster][brian
 
 Ioannis Michos, European University, Cyprus - [abstract][ioannis_michos], [poster][ioannis_michos_poster]
 
-Émile Nadeau, UQAM, Canada - [abstract][nadeau_emile]
+Émile Nadeau, UQAM, Canada - [abstract][nadeau_emile], [poster][emile_nadeau_poster]
 
-Dun Qiu, UCSD, USA - [abstract][dan_qiu]
+Dun Qiu, UCSD, USA - [abstract][dan_qiu], [poster][dun_qiu_poster]
 
-Jason Smith, University of Strathclyde, UK - [abstract][jason_smith]
+Jason Smith, University of Strathclyde, UK - [abstract][jason_smith], [poster][jason_smith_poster]
 
 Rebecca Smith, SUNY, USA - [abstract][rebecca_smith]
 
@@ -377,6 +377,9 @@ Jennifer Galovich - [problem][jennifer_galovich_problem]
 [masaya_tomie_poster]: /assets/pdf/poster/masaya_tomie.pdf
 [david_marchant_poster]: /assets/pdf/poster/david_marchant.pdf
 [kendra_killpatrick_poster]: /assets/pdf/poster/kendra_killpatrick.pdf
+[emile_nadeau_poster]: /assets/pdf/poster/emile_nadeau.pdf
+[dun_qiu_poster]: /assets/pdf/poster/dun_qiu.pdf
+[jason_smith_poster]: /assets/pdf/poster/jason_smith.pdf
 [_poster]: /assets/pdf/poster/.pdf
 
 
