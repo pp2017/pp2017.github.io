@@ -1,5 +1,5 @@
 ---
-title: Local information
+title: Local Info
 layout: page
 ---
 
