@@ -347,7 +347,7 @@ Jennifer Galovich - [problem][jennifer_galovich_problem]
 [bridget_tenner_slides]: /assets/pdf/slides/bridget_tenner.pdf
 [luca_ferrari_slides]: /assets/pdf/slides/luca_ferrari.pdf
 [michael_albert_slides]: /assets/pdf/slides/michael_albert.pdf
-[vit_jelinek_slides]: /assets/pdf/slides/.pdf
+[vit_jelinek_slides]: /assets/pdf/slides/vit_jelinek.pdf
 [chaim_even_zohar_slides]: /assets/pdf/slides/chaim_even_zohar.pdf
 [adeline_pierrot_slides]: /assets/pdf/slides/adeline_pierrot.pdf
 [david_bevan_slides]: /assets/pdf/slides/david_bevan.pdf
